@@ -452,7 +452,7 @@ span {
 }
 
 .favorite h2 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .favorite h3 {
@@ -520,7 +520,10 @@ span {
   transform: none;
 }
 
-
+.sea h2 {
+  font-size: 16px;
+}
+  
 .seas a {
   text-decoration: none;
 }
