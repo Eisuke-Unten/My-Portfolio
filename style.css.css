@@ -99,6 +99,7 @@ font-size: 20px;
 iframe {
   display: block;
   margin: 10px 10px;
+  width: 100%;
 }
 
 .name {
