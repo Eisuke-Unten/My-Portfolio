@@ -450,14 +450,14 @@ span {
 .career {
   border: 1px solid antiquewhite;
   box-sizing: border-box;
-  border-radius: 200px;
+  border-radius: 50px;
   background-color: antiquewhite;
 }
 
 .career p {
   padding: 10px 0;
   font-size: 10px;
-  margin: 0 150px;
+  margin: 0 50px;
   background-color: antiquewhite;
 }
  
@@ -519,8 +519,8 @@ span {
 
 .favorite img {
   display: inline-block;
-  margin:  10px 50px;
-  width: 60px;
+  margin:  10px 70px;
+  /* width: 60px; */
   height: 60px;
 }
 
