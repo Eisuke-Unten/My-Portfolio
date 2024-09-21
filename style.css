@@ -456,7 +456,7 @@ span {
 
 .career p {
   padding: 10px 0;
-  font-size: 10px;
+  /* font-size: 10px; */
   margin: 0 50px;
   background-color: antiquewhite;
 }
@@ -496,7 +496,7 @@ span {
 
 .favorite {
   width: 100%;
-  /* margin: 0 auto; */
+  margin: 0 auto;
 }
 
 .favorite h2 {
@@ -519,7 +519,7 @@ span {
 
 .favorite img {
   display: inline-block;
-  margin:  10px 0px;
+  margin:  10px 80px;
   /* width: 60px; */
   height: 60px;
 }
