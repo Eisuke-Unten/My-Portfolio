@@ -520,7 +520,7 @@ span {
 .favorite img {
   display: inline-block;
   margin:  10px 80px;
-  /* width: 60px; */
+  width: 100px;
   height: 60px;
 }
 
