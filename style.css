@@ -495,7 +495,7 @@ span {
 }
 
 .favorite {
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -519,8 +519,8 @@ span {
 
 .favorite img {
   display: inline-block;
-  margin:  10px 10px;
-  width: 50px;
+  margin:  10px 50px;
+  width: 60px;
   height: 60px;
 }
 
