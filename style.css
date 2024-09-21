@@ -36,6 +36,7 @@ position: absolute;
   margin: 10px 0 0 20px;
   color: rgb(95, 70, 38);
   font-family: serif;
+    text-decoration: none;
 }
 
 .title a {
@@ -372,6 +373,9 @@ header {
   color: rgb(95, 70, 38);
   font-family: serif;
 }
+.title a {
+  text-decoration: none;
+}
 
 nav ul {
   /* display: flex;
@@ -452,6 +456,7 @@ span {
 
 .career p {
   padding: 10px 0;
+  font-size: 10px;
   margin: 0 150px;
   background-color: antiquewhite;
 }
@@ -514,8 +519,8 @@ span {
 
 .favorite img {
   display: inline-block;
-  margin:  10px 20px;
-  width: 60px;
+  margin:  10px 10px;
+  width: 50px;
   height: 60px;
 }
 
